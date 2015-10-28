@@ -1,0 +1,27 @@
+$primary : #E8371C;
+body {
+}
+.header {
+  background-color: #e1e1e1;
+  margin-top:20px;
+  padding:50px;
+  box-shadow: 3px 3px 20px -15px black;
+}
+.header-highlight {
+}
+h1 {
+  font-family: helvetica;
+  font-size: 1.8em;
+  color: #404040;
+}
+.special {
+  color: $primary;
+}
+.brand {
+  text-align: center;
+  color: white;
+  color: $primary;
+  font-size: 4em;
+  margin:0px;
+  padding:0px;
+}
